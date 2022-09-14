@@ -1,6 +1,6 @@
 # Marketing-Analytics-EDA
 
-##Exploratory Data Analysis of a Marketing Analytics dataset from Kaggle
+## Exploratory Data Analysis of a Marketing Analytics dataset from Kaggle
 
 ## The steps of the EDA applied:
 
